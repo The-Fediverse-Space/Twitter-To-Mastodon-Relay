@@ -3,7 +3,7 @@
 
 # Twitter-To-Mastodon-Relay [![Maintainability](https://api.codeclimate.com/v1/badges/5ce2dc7dbf21d7a7fd4d/maintainability)](https://codeclimate.com/github/renatolond/mastodon-twitter-poster/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/5ce2dc7dbf21d7a7fd4d/test_coverage)](https://codeclimate.com/github/renatolond/mastodon-twitter-poster/test_coverage) [![Build Status](https://travis-ci.org/renatolond/mastodon-twitter-poster.svg?branch=master)](https://travis-ci.org/renatolond/mastodon-twitter-poster) [![Translation status](https://hosted.weblate.org/widgets/mastodon-twitter-crossposter/-/svg-badge.svg)](https://hosted.weblate.org/engage/mastodon-twitter-crossposter/)
 
-This is an app for crossposting between Mastodon and Twitter. The app is made so that multiple users can connect to it using the OAuth interface from both Twitter and Mastodon and choose options on how the crosspost should work.
+This is an app for relaying posts (toots and tweets) between Mastodon and Twitter. The app is made so that multiple users can connect to it using the OAuth interface from both Twitter and Mastodon and choose options on how the crosspost should work.
 
 ## Features
 
